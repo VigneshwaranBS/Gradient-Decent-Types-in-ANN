@@ -1,6 +1,6 @@
 # Gradient-Decent-Types-in-ANN
 
-## This project provides an implementation of three different types of gradient descent algorithms for optimizing machine learning models: Stochastic Gradient Descent (SGD), Batch Gradient Descent (BGD), and Mini-batch Gradient Descent (MBGD).
+- This project provides an implementation of three different types of gradient descent algorithms for optimizing machine learning models: Stochastic Gradient Descent (SGD), Batch Gradient Descent (BGD), and Mini-batch Gradient Descent (MBGD).
 
 ## Gradient Descent Algorithms
 Gradient descent is an optimization algorithm used to minimize the cost function of a machine learning model. The algorithm iteratively adjusts the model's parameters to reduce the error between the predicted output and the actual output. The following gradient descent algorithms are implemented in this project:
@@ -19,3 +19,7 @@ Gradient descent is an optimization algorithm used to minimize the cost function
 
 ## Getting Started
 To get started with the project, clone the repository and navigate to the project directory:
+
+``
+git clone https://github.com/VigneshwaranBS/Gradient-Decent-Types-in-ANN.git
+``
