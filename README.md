@@ -40,6 +40,7 @@ You can install NumPy using pip:
 ``
 pip install numpy
 ``
+
 ``
 pip install pandas
 ``
